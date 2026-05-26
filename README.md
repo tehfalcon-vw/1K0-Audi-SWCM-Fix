@@ -1,6 +1,8 @@
 STM32 Nucleo-C542RC firmware for translating VW multifunction steering
 wheel control module CAN button events into Audi compatible steering wheel commands.
 
+Example: VW 1K0 SWCM installed in Audi A3 8P
+
 ## Hardware
 
 - STM32 Nucleo-C542RC
