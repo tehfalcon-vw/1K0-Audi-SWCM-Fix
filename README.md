@@ -1,5 +1,3 @@
-# RNS-E CAN Translator
-
 STM32 Nucleo-C542RC firmware for translating VW multifunction steering
 wheel control module CAN button events into Audi compatible steering wheel commands.
 
